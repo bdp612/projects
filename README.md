@@ -1,6 +1,6 @@
-projects
+PROJECTS
 ========
-just a repository for school assignments throughout the semester
+This is a repository for school projects assigned throughout the semester. The file names and assignment descriptions are listed below.
 
 grid.c
 ========
