@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ 
 struct fraction {
 	int num;
 	int den;
